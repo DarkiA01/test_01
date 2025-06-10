@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "aba5",
+      "category": "Category 1",
+      "subcategory": "1.2",
+      "name": "test 1",
+      "productId": "B512AF95"
+    },
+    {
+      "id": "47cc",
+      "subcategory": "2.2",
+      "category": "Category 2",
+      "name": "t2",
+      "productId": "4D433A62"
+    },
+    {
+      "id": "6256",
+      "category": "Category 3",
+      "subcategory": "3.2",
+      "name": "t3",
+      "productId": "309326D1"
+    }
+  ]
+}
